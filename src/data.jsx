@@ -1,0 +1,22 @@
+export const link = [
+    {
+        name:'Governance',
+        path:'/'
+    },
+    {
+        name:'Security',
+        path:'/security'
+    },
+    {
+        name:'Docum',
+        path:'/docum'
+    },
+    {
+        name:'Tation',
+        path:'/tation'
+    },
+    {
+        name:'FAQ',
+        path:'/FAQ'
+    }
+]
